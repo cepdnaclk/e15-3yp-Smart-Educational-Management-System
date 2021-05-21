@@ -1,22 +1,18 @@
 ---
 layout: home
 permalink: index.html
-
-# Please update this with your repository name and title
-repository-name: eYY-3yp-project-template
-title:
+repository-name: e15-3yp-Smart-Educational-Management-System
+title: Smart Educational Management System
 ---
 
-[comment]: # "This is the standard layout for the project, but you can clean this and use your own template"
-
-# Project Title
+# Smart Educational Management System
 
 ---
 
 ## Team
--  eNumber, Name, [email](mailto:name@email.com)
--  eNumber, Name, [email](mailto:name@email.com)
--  eNumber, Name, [email](mailto:name@email.com)
+-  E/15/246, R.L. Opanayaka, [e15246@eng.pdn.ac.lk](mailto:e15246@eng.pdn.ac.lk)
+-  E/15/385, S.P.A.P.E. Weerasinghe, [e15385@eng.pdn.ac.lk](mailto:e15385@eng.pdn.ac.lk)
+-  E/15/233, P.N.N. Muthucumarana, [e15233@eng.pdn.ac.lk](mailto:e15233@eng.pdn.ac.lk
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -31,20 +27,35 @@ title:
 
 ## Introduction
 
-Description of the real world problem and solution, impact
-
-This is a sample image, to show how to add images to your page. To learn more options, please refer [this](https://projects.ce.pdn.ac.lk/docs/faq/how-to-add-an-image/)
-
-![Sample Image](./images/sample.png)
+Smart Educational Management System (SEMS) is specially designed for schools, colleges and institutes to automate the institutional processes. Use of SEMS makes your institution eco-friendly as all data and your reports are stored on the server, the use of paper and files are necessary only when needed. Attendance of students can be marked by taking the fingerprint using a device with an embedded system. SEMS is very affordable and comes with no limits on the number of students, teachers and parent logins. This system is highly secured and the automation helps in reducing costs and brings a lot of savings for you.
 
 
 ## Solution Architecture
+### Smart Attendance Marking System (SAMS)
 
-High level diagram + description
+![image](https://user-images.githubusercontent.com/73756777/119204885-4df95e80-bab4-11eb-83c0-76c2cac5e595.png)
 
 ## Hardware and Software Designs
 
-Detailed designs with many sub-sections
+Milestone 1-Project Evaluation one 
+What we have completed up to now
+Finger print end node
+-Taking inputs from finger print sensor
+-Enter ID from each user
+-Enroll, Search, back function implementation
+We are capable of
+
+Enroll a new user
+Search for a enrolled user
+ 
+
+Web app 
+-Implemented user login registration
+-Implemented retrieving and storing from Mysql DB using php backend
+ 
+
+Changes made
+-As with more relational connections occured in EER diagram we tend to use MySQL(realtional) instead of firebase(non-realtional)
 
 ## Testing
 
