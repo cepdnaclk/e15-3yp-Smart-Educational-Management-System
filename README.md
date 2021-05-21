@@ -1,57 +1,71 @@
-___
-# DELETE THIS INSTRUCTIONS AND ADD AN INTRODUCTION ABOUT YOUR PROJECT
-___
+---
+layout: home
+permalink: index.html
+repository-name: e15-3yp-Smart-Educational-Management-System
+title: Smart Educational Management System
+---
 
-# eYY-3yp-project-template
+# Smart Educational Management System
 
-This is a sample repository you can use for your Embedded Systems project. Once you followed these instructions, remove the text and add a brief introduction to here.
+---
 
-### Enable GitHub Pages
+## Team
+-  E/15/246, R.L. Opanayaka, [e15246@eng.pdn.ac.lk](mailto:e15246@eng.pdn.ac.lk)
+-  E/15/385, S.P.A.P.E. Weerasinghe, [e15385@eng.pdn.ac.lk](mailto:e15385@eng.pdn.ac.lk)
+-  E/15/233, P.N.N. Muthucumarana, [e15233@eng.pdn.ac.lk](mailto:e15233@eng.pdn.ac.lk
 
-You can put the things to be shown in GitHub pages into the _docs/_ folder. Both html and md file formats are supported. You need to go to settings and enable GitHub pages and select _main_ branch and _docs_ folder from the dropdowns, as shown in the below image.
+## Table of Contents
+1. [Introduction](#introduction)
+2. [Solution Architecture](#solution-architecture )
+3. [Hardware & Software Designs](#hardware-and-software-designs)
+4. [Testing](#testing)
+5. [Links](#links)
 
-![image](https://user-images.githubusercontent.com/11540782/98789936-028d3600-2429-11eb-84be-aaba665fdc75.png)
+---
 
-### Special Configurations
+## Introduction
 
-These projects will be automatically added into [https://projects.ce.pdn.ac.lk](). If you like to show more details about your project on this site, you can fill the parameters in the file, _/docs/index.json_
+Smart Educational Management System (SEMS) is specially designed for schools, colleges and institutes to automate the institutional processes. Use of SEMS makes your institution eco-friendly as all data and your reports are stored on the server, the use of paper and files are necessary only when needed. Attendance of students can be marked by taking the fingerprint using a device with an embedded system. SEMS is very affordable and comes with no limits on the number of students, teachers and parent logins. This system is highly secured and the automation helps in reducing costs and brings a lot of savings for you.
 
-```
-{
-  "title": "This is the title of the project",
-  "team": [
-    {
-      "name": "Team Member Name 1",
-      "email": "email@eng.pdn.ac.lk",
-      "eNumber": "E/yy/xxx"
-    },
-    {
-      "name": "Team Member Name 2",
-      "email": "email@eng.pdn.ac.lk",
-      "eNumber": "E/yy/xxx"
-    },
-    {
-      "name": "Team Member Name 3",
-      "email": "email@eng.pdn.ac.lk",
-      "eNumber": "E/yy/xxx"
-    }
-  ],
-  "supervisors": [
-    {
-      "name": "Dr. Supervisor 1",
-      "email": "email@eng.pdn.ac.lk"
-    },
-    {
-      "name": "Supervisor 2",
-      "email": "email@eng.pdn.ac.lk"
-    }
-  ],
-  "tags": ["Web", "Embedded Systems"]
-}
-```
 
-Once you filled this _index.json_ file, please verify the syntax is correct. (You can use [this](https://jsonlint.com/) tool).
+## Solution Architecture
+### Smart Attendance Marking System (SAMS)
 
-### Page Theme
+![image](https://user-images.githubusercontent.com/73756777/119204885-4df95e80-bab4-11eb-83c0-76c2cac5e595.png)
 
-A custom theme integrated with this GitHub Page, which is based on [github.com/cepdnaclk/eYY-project-theme](https://github.com/cepdnaclk/eYY-project-theme). If you like to remove this default theme, you can remove the file, _docs/\_config.yml_ and use HTML based website.
+## Hardware and Software Designs
+
+Milestone 1-Project Evaluation one 
+What we have completed up to now
+Finger print end node
+-Taking inputs from finger print sensor
+-Enter ID from each user
+-Enroll, Search, back function implementation
+We are capable of
+
+Enroll a new user
+Search for a enrolled user
+ 
+
+Web app 
+-Implemented user login registration
+-Implemented retrieving and storing from Mysql DB using php backend
+ 
+
+Changes made
+-As with more relational connections occured in EER diagram we tend to use MySQL(realtional) instead of firebase(non-realtional)
+
+## Testing
+
+[Test plan PDF](https://github.com/cepdnaclk/e15-3yp-Smart-Educational-Management-System/blob/main/docs/Smart%20Attendance%20Marking%20System_test_plan.pdf)
+
+
+### Links  
+- <a href = "https://github.com/cepdnaclk/e15-3yp-Smart-Educational-Management-System" target = "_blank"> Project Repository </a>
+- <a href = "https://cepdnaclk.github.io/e15-3yp-Smart-Educational-Management-System/" target = "_blank">Project Page</a>
+- <a href = "http://www.ce.pdn.ac.lk/" target = "_blank">Department of Computer Engineering</a>
+- <a href = "https://eng.pdn.ac.lk/" target = "_blank">University of Peradeniya</a>
+
+
+[//]: # (Please refer this to learn more about Markdown syntax)
+[//]: # (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
