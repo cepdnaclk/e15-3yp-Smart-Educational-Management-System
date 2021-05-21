@@ -19,9 +19,7 @@ title: Smart Educational Management System
 2. [Solution Architecture](#solution-architecture )
 3. [Hardware & Software Designs](#hardware-and-software-designs)
 4. [Testing](#testing)
-5. [Detailed budget](#detailed-budget)
-6. [Conclusion](#conclusion)
-7. [Links](#links)
+5. [Links](#links)
 
 ---
 
@@ -59,26 +57,14 @@ Changes made
 
 ## Testing
 
-Testing done on hardware and software, detailed + summarized results
+[Test plan PDF](https://github.com/cepdnaclk/e15-3yp-Smart-Educational-Management-System/blob/main/docs/Smart%20Attendance%20Marking%20System_test_plan.pdf)
 
-## Detailed budget
 
-All items and costs
-
-| Item          | Quantity  | Unit Cost  | Total  |
-| ------------- |:---------:|:----------:|-------:|
-| Sample item   | 5         | 10 LKR     | 50 LKR |
-
-## Conclusion
-
-What was achieved, future developments, commercialization plans
-
-## Links
-
-- [Project Repository](https://github.com/cepdnaclk/{{ page.repository-name }}){:target="_blank"}
-- [Project Page](https://cepdnaclk.github.io/{{ page.repository-name}}){:target="_blank"}
-- [Department of Computer Engineering](http://www.ce.pdn.ac.lk/)
-- [University of Peradeniya](https://eng.pdn.ac.lk/)
+### Links  
+- <a href = "https://github.com/cepdnaclk/e15-3yp-Smart-Educational-Management-System" target = "_blank"> Project Repository </a>
+- <a href = "https://cepdnaclk.github.io/e15-3yp-Smart-Educational-Management-System/" target = "_blank">Project Page</a>
+- <a href = "http://www.ce.pdn.ac.lk/" target = "_blank">Department of Computer Engineering</a>
+- <a href = "https://eng.pdn.ac.lk/" target = "_blank">University of Peradeniya</a>
 
 
 [//]: # (Please refer this to learn more about Markdown syntax)
