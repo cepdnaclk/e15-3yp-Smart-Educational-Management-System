@@ -10,9 +10,9 @@ title: Smart Educational Management System
 ---
 
 ## Team
--  E/15/246, R.L. Opanayaka, [e15246@eng.pdn.ac.lk](mailto:e15246@eng.pdn.ac.lk)
--  E/15/385, S.P.A.P.E. Weerasinghe, [e15385@eng.pdn.ac.lk](mailto:e15385@eng.pdn.ac.lk)
--  E/15/233, P.N.N. Muthucumarana, [e15233@eng.pdn.ac.lk](mailto:e15233@eng.pdn.ac.lk)
+-  E/15/246, R.L. Opanayaka, [rajithaopanayaka.ro@gmail.com](mailto:rajithaopanayaka.ro@gmail.com)
+-  E/15/385, S.P.A.P.E. Weerasinghe, [amilaweerasinghe677@gmail.com](mailto:amilaweerasinghe677@gmail.com)
+-  E/15/233, P.N.N. Muthucumarana, [nipunimuthucumarana@gmail](mailto:nipunimuthucumarana@gmail)
 
 ## Table of Contents
 1. [Introduction](#introduction)
